@@ -1,0 +1,1 @@
+For the program in Part 2 Task 2 to take "hdfs:/p2t1.csv" as input to go through stream processing, we use Single Node cluster and set the Spark driver memory to 5GB and the Spark executor memory to 5GB. We leave the block size as default.

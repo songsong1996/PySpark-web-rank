@@ -1,0 +1,1 @@
+For the program in Part 2 Task 1 to take "hdfs:/p2t1.csv" as input of the query to filter those articles with more than 0.5 rankings, we use Single Node cluster and set the Spark driver memory to 5GB and the Spark executor memory to 5GB. We leave the block size as default.

@@ -1,0 +1,1 @@
+For the program in Part 1 Task 2 to take “enwiki_small.xml” as input to generate the graph, we use Single Node cluster and set the Spark driver memory to 1GB and the Spark executor memory to 5GB. We leave the block size as default.
